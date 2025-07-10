@@ -15,7 +15,7 @@ Beyond the technical realm, I'm deeply committed to fostering community and cros
 My multilingual abilities (Turkish, Azerbaijani, and English) have given me a unique perspective on global markets and cross-cultural data analysis, which has proven invaluable in my international project work. Whether I'm analyzing banking data from South America or building predictive models for North American markets, I bring a global mindset to every challenge.
 
 **🏆 Academic Achievements:**
-- Dean's List: Fall '23, Spring '24
+- Dean's List: Fall '23, Spring '24, Spring '25
 - Roosevelt Scholar: 2023-2027
 - Break Through Tech AI Fellow: Selected from 3,600+ applicants
 
