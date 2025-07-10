@@ -119,17 +119,10 @@ Scikit-learn | TensorFlow | PyTorch | Pandas | NumPy | Matplotlib | Seaborn
 - Collaborating with industry professionals on cutting-edge AI solutions
 - **Focus Areas:** Deep Learning, NLP, Computer Vision
 
-## 📈 GitHub Stats
-
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
 ## 🤝 Let's Connect!
 
 - 📧 Email: furkanberatay27@gmail.com
 - 📱 Phone: 917-660-7634
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
-
 ---
 
 *"Turning data into decisions through AI and machine learning, one insight at a time."* 🤖📊✨
