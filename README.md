@@ -80,49 +80,29 @@ Scikit-learn | TensorFlow | PyTorch | Pandas | NumPy | Matplotlib | Seaborn
 - Leading cultural initiatives and organizing events for student engagement
 - Fostering cross-cultural inclusion and heritage awareness
 
-## 🚀 Featured Projects
+## 🚀 Projects & Work
 
-### 🤖 AI & Machine Learning Projects
+I'm passionate about applying machine learning and AI to solve real-world business problems. From customer segmentation and predictive analytics to data engineering pipelines and automated quality frameworks, my projects span the full data science lifecycle.
 
-### 💳 Cross-Selling Optimization for Credit Union (Latin America)
-- **ML Techniques Used:** Customer segmentation using K-means clustering, Random Forest for predictive modeling
-- Led customer segmentation analysis for South American bank using unsupervised learning algorithms
-- Delivered actionable cross-selling strategies using Python, scikit-learn, and data visualization
-- Transformed complex banking data into executive-ready insights with 18% ROI improvement
-- **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+**🤖 What I Work On:**
+- **Machine Learning & AI:** Customer segmentation, predictive modeling, time series forecasting, anomaly detection
+- **Data Engineering:** Large-scale data processing, automated pipelines, quality frameworks
+- **Business Intelligence:** Interactive dashboards, executive reporting, ROI optimization
+- **Cross-Cultural Analytics:** Global market analysis, multilingual data processing
 
-### 📊 Predictive Analytics for Marketing ROI
-- **ML Techniques Used:** Regression analysis, Random Forest, Hyperparameter tuning
-- Processed 1M+ rows of customer data to identify high-value segments
-- Built and optimized predictive models achieving 85%+ accuracy through hyperparameter tuning
-- Implemented feature engineering and model validation techniques
-- **Tech Stack:** Python, SQL, Scikit-learn, XGBoost, Pandas
+**💼 Real Impact:**
+- Reduced financial risk by $250K annually through ML-powered data frameworks
+- Boosted marketing ROI by 18% using advanced segmentation techniques
+- Automated workflows reducing manual tasks by 40% across teams
+- Accelerated decision-making by 30% through predictive dashboards
 
-### 🔍 Data Quality Framework with ML
-- **ML Techniques Used:** Anomaly detection, Statistical quality control
-- Developed automated data quality checks using machine learning for CVS Health
-- Implemented anomaly detection algorithms to identify data inconsistencies
-- Created ML-powered framework reducing manual data validation by 40%
-- **Tech Stack:** Python, SQL, Apache Spark, Nexus, Statistical libraries
-
-### 📈 Time Series Forecasting Dashboard
-- **ML Techniques Used:** Time series analysis, ARIMA, Prophet
-- Built predictive dashboards for business forecasting at Evergreen Investments
-- Implemented time series models for sales and marketing predictions
-- Created interactive visualizations accelerating decision-making by 30%
-- **Tech Stack:** Python, Prophet, Zoho Analytics, Plotly, Dash
-
-### 🧠 Break Through Tech AI Capstone Project
-*Currently in Development - Cornell Tech Program*
-- Working on industry-sponsored AI project with Cornell faculty mentorship
-- Applying advanced machine learning techniques to real-world business problems
-- Collaborating with industry professionals on cutting-edge AI solutions
-- **Focus Areas:** Deep Learning, NLP, Computer Vision
+**👨‍💻 Check out my repositories below to see my latest AI/ML projects, data engineering solutions, and analytics work in action!**
 
 ## 🤝 Let's Connect!
 
 - 📧 Email: furkanberatay27@gmail.com
 - 📱 Phone: 917-660-7634
+
 ---
 
 *"Turning data into decisions through AI and machine learning, one insight at a time."* 🤖📊✨
