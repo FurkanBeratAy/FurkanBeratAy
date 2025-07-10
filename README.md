@@ -15,7 +15,7 @@ Beyond the technical realm, I'm deeply committed to fostering community and cros
 My multilingual abilities (Turkish, Azerbaijani, and English) have given me a unique perspective on global markets and cross-cultural data analysis, which has proven invaluable in my international project work. Whether I'm analyzing banking data from South America or building predictive models for North American markets, I bring a global mindset to every challenge.
 
 **🏆 Academic Achievements:**
-- Dean's List: Fall '23, Spring '24, Spring '25
+- Dean's List: Fall '23, Spring '24
 - Roosevelt Scholar: 2023-2027
 - Break Through Tech AI Fellow: Selected from 3,600+ applicants
 
@@ -25,6 +25,13 @@ My multilingual abilities (Turkish, Azerbaijani, and English) have given me a un
 - Predictive Analytics & Business Intelligence
 - Cross-Cultural Data Analysis
 - Leadership in Tech Diversity
+
+**🎮 When I'm Not Coding:**
+When I step away from algorithms and datasets, you'll find me exploring the world beyond the screen. I'm passionate about skating—whether it's cruising through the city or perfecting new tricks at the local skate park. Gaming has always been a creative outlet for me, from strategy games that sharpen my analytical thinking to collaborative multiplayer experiences that build teamwork skills.
+
+I believe in the importance of balance, so I love spending time outdoors—hiking, exploring new neighborhoods, or just enjoying nature's data patterns in a completely different way. Nothing beats hanging out with friends, sharing stories, and building the kind of authentic connections that remind me why human-centered design matters so much in data science.
+
+These interests keep me grounded and fuel my creativity, often inspiring unique approaches to the technical challenges I tackle in my professional work.
 
 ## 💼 Professional Experience
 
